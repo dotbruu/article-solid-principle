@@ -14,8 +14,8 @@ DIP | The Dependency Inversion Principle. Princípio da inversão da dependênci
 
 #### **Conhecendo os princípios**
 
-[O Princípio da Responsabilidade Única](./SRP)
-[O Princípio Aberto-Fechado](./OCP)
-[O Princípio da Substituição de Liskov](./LSP)
-[O Princípio da Segregação da Interface](./ISP)
-[O Princípio da Inversão da Dependência](./DIP)
+[O Princípio da Responsabilidade Única](./SRP) <br/>
+[O Princípio Aberto-Fechado](./OCP) <br/>
+[O Princípio da Substituição de Liskov](./LSP) <br/>
+[O Princípio da Segregação da Interface](./ISP) <br/>
+[O Princípio da Inversão da Dependência](./DIP) <br/>
