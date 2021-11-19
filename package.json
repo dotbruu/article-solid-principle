@@ -1,0 +1,17 @@
+{
+  "name": "article-solid-princicle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "srp": "nodemon SRP/index.ts",
+    "ocp": "nodemon OCP/index.ts",
+    "lsp": "nodemon LSP/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "@types/typescript": "^2.0.0",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.2"
+  }
+}
